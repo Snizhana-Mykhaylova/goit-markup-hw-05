@@ -125,6 +125,8 @@ img {
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
+
+  transition: color, background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .secondary.button:hover,
